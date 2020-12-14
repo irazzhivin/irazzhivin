@@ -1,6 +1,8 @@
 ### Hi there, I'm Ivan! 👋
-![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=irazzhivin&show_icons=true&theme=radical)
+
 💬 Ask me about anything [here](https://github.com/irazzhivin/irazzhivin/issues)
+
+![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=irazzhivin&show_icons=true&theme=radical)
 
 <!--
 **irazzhivin/irazzhivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
